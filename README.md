@@ -3,6 +3,6 @@ Projekat iz predmeta “Razvoj softvera otvorenog koda”, naziv rada jeste “M
 1. **Zorica Brkić – SI 29/15** - [@brkicz](https://github.com/brkicz "@brkicz") – Kreiranje baze podataka (MySQL) – Stored Procedure, Views, Triggers, Transactions, Database backup, MySQL korisnički nalozi. Kreiranje logike aplikacije i povezivanje sa bazom podataka, ujedno i kreiranje REST servisa - JAVA Spring MVC, JSON
 2. **Nemanja Tasić – SI 41/16** - [@ntasic89](https://github.com/ntasic89 "@ntasic89") – Kreiranje grafičkog dizajna putem Angular 5, podrška: CSS (SASS), HTML i jQuery.
 
-**Pošto se tim sastoji iz dva člana, projekat treba realizovati na osnovu specifikacija koji su definisane na stranici predmeta u roku od 5 nedelja. U period realizacije se računa i termin odbrane projekta. Pošto je projekat prijavljen 05.09.2018. isti treba realizovati i odbraniti najkasnije do 10.10.2018.**
+**Pošto se tim sastoji iz dva člana, projekat treba realizovati u roku od 5 nedelja. U period realizacije se računa i termin odbrane projekta. Pošto je projekat prijavljen 05.09.2018. isti treba realizovati i odbraniti najkasnije do 10.10.2018.**
 
 Project started for learning purpose, based on a site http://markme.me/.
