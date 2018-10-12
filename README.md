@@ -9,7 +9,7 @@ Project started for learning purpose, based on a site http://markme.me/.
 
 # PREDVIĐENO VREME ZA REALIZACIJU PROJEKTA JE ISTEKLO, NAVEDENI PROJEKAT SE TERMINIRA I ISTI JE NEVAŽEĆI.
 
-**Pošto studenti koji su prijavili projekat nisu realizovali isti u predviđenom (definisanom) vremenskom roku projekat je terminiran i spomenutim studentima je onemogućen dalji pristup ovom repozitorijumu koji sada služi kao arhiva neuspelog / nerealizovanog projekta**. Od datuma definisanja repozitorijuma od strane predmetnog profesora **05.09.2018.** spomenuti studenti nisu realizovali ni jedan commmit i nije ispunjena ni jedna mandatorna stavka specifikacije seminarskog rada / projekta.
+**Pošto studenti koji su prijavili projekat nisu realizovali isti u predviđenom (definisanom) vremenskom roku projekat je terminiran i spomenutim studentima je onemogućen dalji rad na ovom repozitorijumu koji sada služi kao arhiva neuspelog / nerealizovanog projekta**. Od datuma definisanja repozitorijuma od strane predmetnog profesora **05.09.2018.** spomenuti studenti nisu realizovali ni jedan commmit i nije ispunjena ni jedna mandatorna stavka specifikacije seminarskog rada / projekta.
 
 **Prethodno spomenuti studenti koji su prijavili navedeni projekat mogu prijaviti neki drugi projekat, ali ne projekat sa istom temom.**
 
